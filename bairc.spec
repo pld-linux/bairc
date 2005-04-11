@@ -21,7 +21,7 @@ klientem IRC napisanym w BASH. Wspiera podstawowe komendy oraz
 posiada ³adne GUI.
 
 %prep
-%setup -q -c %{name}-%{version}
+%setup -q -c
 
 %install
 rm -rf $RPM_BUILD_ROOT
