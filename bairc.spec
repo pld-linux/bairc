@@ -1,5 +1,5 @@
 Summary:	IRC client written entirely in BASH
-Summary(pl.UTF-8):   Klient IRC napisany wyłącznie w BASH
+Summary(pl.UTF-8):	Klient IRC napisany wyłącznie w BASH
 Name:		bairc
 Version:	1.3
 Release:	1
