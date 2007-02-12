@@ -1,5 +1,5 @@
 Summary:	IRC client written entirely in BASH
-Summary(pl):	Klient IRC napisany wy³±cznie w BASH
+Summary(pl.UTF-8):   Klient IRC napisany wyÅ‚Ä…cznie w BASH
 Name:		bairc
 Version:	1.3
 Release:	1
@@ -15,10 +15,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Bourne Again IRC Client is a single-file client written entirely in
 BASH. It supports basic commands and has a nice GUI.
 
-%description -l pl
-Bourne Again IRC Client jest sk³adaj±cym siê z tylko jednego pliku
+%description -l pl.UTF-8
+Bourne Again IRC Client jest skÅ‚adajÄ…cym siÄ™ z tylko jednego pliku
 klientem IRC napisanym w BASH. Wspiera podstawowe komendy oraz
-posiada ³adne GUI.
+posiada Å‚adne GUI.
 
 %prep
 %setup -q -c
